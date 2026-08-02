@@ -229,3 +229,20 @@ Custom furniture and premium wood finishing.
 </div>
 
 </section>
+<footer class="footer">
+    <div class="container">
+        <h2>Karigar Rangkriti</h2>
+        <p>Painting • Interiors • Woodwork</p>
+
+        <p>📞 +91 9619022616</p>
+
+        <p>📍 Bangalore, Karnataka</p>
+
+        <p>© 2026 Karigar Rangkriti. All Rights Reserved.</p>
+    </div>
+</footer>
+
+<script src="js/script.js"></script>
+
+</body>
+</html>
