@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Karigar Rangkriti | Premium Painting & Interior Solutions</title>
+
+<meta name="description"
+content="Karigar Rangkriti provides premium interior painting, exterior painting, waterproofing, texture painting and interior solutions across Bengaluru.">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="css/style.css">
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+</head>
+
+<body>
+
+<!-- ================= NAVBAR ================= -->
+
+<header>
+
+<nav class="navbar">
+
+<div class="logo">
+
+<img src="images/logo.png" alt="Karigar Rangkriti Logo">
+
+<div>
+
+<h2>KARIGAR</h2>
+
+<span>RANGKRITI</span>
+
+</div>
+
+</div>
+
+<ul>
+
+<li><a href="#home">Home</a></li>
+
+<li><a href="#about">About</a></li>
+
+<li><a href="#services">Services</a></li>
+
+<li><a href="#projects">Projects</a></li>
+
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+<a href="tel:+919619022616" class="call-btn">
+
+<i class="fa-solid fa-phone"></i>
+
+Call Now
+
+</a>
+
+</nav>
+
+</header>
+
+<!-- ================= HERO ================= -->
+
+<section class="hero" id="home">
+
+<div class="overlay"></div>
+
+<div class="hero-content">
+
+<h4>WHERE CRAFTSMANSHIP MEETS QUALITY</h4>
+
+<h1>
+
+Transforming Spaces Into
+
+<span>Beautiful Masterpieces</span>
+
+</h1>
+
+<p>
+
+Premium Painting, Interior & Renovation Solutions
+
+Across Bengaluru, Karnataka.
+
+</p>
+
+<div class="hero-buttons">
+
+<a href="#contact" class="btn gold">
+
+Get Free Quote
+
+</a>
+
+<a href="https://wa.me/919619022616"
+
+class="btn outline">
+
+WhatsApp Us
+
+</a>
+
+</div>
+
+<div class="trust">
+
+★★★★★ Trusted by Homeowners & Businesses
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ================= SERVICES ================= -->
+
+<section class="services" id="services">
+
+<div class="container">
+
+<h2>Our Services</h2>
+
+<p class="subtitle">
+
+Complete Painting & Interior Solutions
+
+</p>
+
+<div class="service-grid">
+
+<div class="card">
+
+<i class="fa-solid fa-paint-roller"></i>
+
+<h3>Interior Painting</h3>
+
+<p>
+
+Premium wall finishes with flawless workmanship.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<i class="fa-solid fa-house"></i>
+
+<h3>Exterior Painting</h3>
+
+<p>
+
+Weather-resistant exterior coatings for lasting beauty.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<i class="fa-solid fa-brush"></i>
+
+<h3>Texture Painting</h3>
+
+<p>
+
+Modern designer texture finishes.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<i class="fa-solid fa-droplet"></i>
+
+<h3>Waterproofing</h3>
+
+<p>
+
+Long-lasting waterproof protection for homes and buildings.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<i class="fa-solid fa-couch"></i>
+
+<h3>Interior Solutions</h3>
+
+<p>
+
+Elegant interiors designed for modern living.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<i class="fa-solid fa-hammer"></i>
+
+<h3>Woodwork</h3>
+
+<p>
+
+Custom furniture and premium wood finishing.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
