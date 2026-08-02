@@ -1,1 +1,103 @@
+/* ===== RESET ===== */
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
 
+html{
+  scroll-behavior:smooth;
+}
+
+body{
+  font-family:'Poppins',sans-serif;
+  background:#111;
+  color:#fff;
+  line-height:1.6;
+}
+
+.container{
+  width:90%;
+  max-width:1200px;
+  margin:auto;
+}
+
+/* ===== NAVBAR ===== */
+
+header{
+  position:fixed;
+  width:100%;
+  top:0;
+  left:0;
+  z-index:1000;
+  background:rgba(17,17,17,.95);
+  backdrop-filter:blur(10px);
+}
+
+.navbar{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:18px 0;
+}
+
+.logo{
+  display:flex;
+  align-items:center;
+  gap:12px;
+}
+
+.logo img{
+  width:60px;
+}
+
+.logo h2{
+  font-size:22px;
+  color:#fff;
+}
+
+.logo span{
+  color:#C8A44D;
+  letter-spacing:3px;
+}
+
+nav ul{
+  display:flex;
+  gap:25px;
+  list-style:none;
+}
+
+nav a{
+  color:white;
+  text-decoration:none;
+  transition:.3s;
+}
+
+nav a:hover{
+  color:#C8A44D;
+}
+
+/* ===== BUTTONS ===== */
+
+.btn{
+  display:inline-block;
+  padding:15px 30px;
+  border-radius:50px;
+  text-decoration:none;
+  transition:.3s;
+  font-weight:600;
+}
+
+.gold{
+  background:#C8A44D;
+  color:#111;
+}
+
+.gold:hover{
+  transform:translateY(-3px);
+}
+
+.outline{
+  border:2px solid #C8A44D;
+  color:#fff;
+}
