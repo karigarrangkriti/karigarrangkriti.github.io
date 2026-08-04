@@ -77,11 +77,17 @@ ul{
 
 }
 
-.logo img{
+.logo img {
+    height: 80px;
+    width: auto;
+    display: block;
+    object-fit: contain;
+}
 
-    height:85px;
-
-    width:auto;
+.navbar,
+.header {
+    min-height: 100px;
+}
 
 }
 
